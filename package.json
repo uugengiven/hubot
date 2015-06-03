@@ -5,6 +5,7 @@
   "author": "John Lange <john.lange@ddiworld.com>",
   "description": "He sees and knows all",
   "dependencies": {
+    "coffee-script": "^1.9.3",
     "hubot": "^2.12.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.4",
